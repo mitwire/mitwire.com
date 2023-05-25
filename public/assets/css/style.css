@@ -115,7 +115,7 @@ section.main p {
     overflow: hidden;
     color: #94a1b2;
     font-size: 25px;
-    animation: typewriter 3s steps(44) 1s 1 normal both, blinkTextCursor 530ms steps(44) infinite normal;
+    animation: typewriter 1s steps(44) 1s 1 normal both, blinkTextCursor 530ms steps(44) infinite normal;
 }
 
 section.main ul {
