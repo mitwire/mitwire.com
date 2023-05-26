@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/XPYN0ro.png" 
 </h1>
 
-**Another Personal Social Media Links Website**
+**Yet Another Personal Social Media Links Website**
 ----------------------------------------
 Mitwire.com is a simple, stylish, and clean website for social media links.
 
